@@ -1,0 +1,6 @@
+transformers 
+human_eval
+tqdm
+llama-cpp-python
+langchain
+ctransformers
